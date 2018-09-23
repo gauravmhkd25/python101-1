@@ -1,19 +1,18 @@
-days = "Mon Tue Wed Thu Fri Sat Sun"
-months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
-
-print("Here are the days: ", days)
-print("Here are the months: ", months)
-
 print("""
-There's something going on here.
-With the three double-quotes.
-We'll be able to type as much as we like.
-Even 4 lines if we want, or 5, or 6.
+Google  News  is  a  news  aggregator  and  app developed by Google.
+It presents a  continuous,   customizable flow of articles organized
+from thousands of publishers and magazines. Google News is available
+on Android,   iOS,   and   the   web.  A  beta  version was launched
+in September 2002,  and   released   officially    in   January 2006.
 """)
+#output: 
+#Google  News  is  a  news  aggregator  and  app developed by Google.
+#It presents a  continuous,   customizable flow of articles organized
+#from thousands of publishers and magazines. Google News is available
+#on Android,   iOS,   and   the   web.  A  beta  version was launched
+#in September 2002,  and   released   officially    in   January 2006.
 
-#a
-#sd
-#asdas
-#das
-#dasd
-#asdad
+print("The obove paragraph is typed between double quotes nested for 3 times")
+print("That prints the paragraph as it is typed between the triple double quotes")
+#output:The obove paragraph is typed between double quotes nested for 3 times
+#That prints the paragraph as it is typed between the triple double quotes
